@@ -14,7 +14,8 @@ Ever wondered how *much* you really type on Discord?
 > **Before anything else**
 > 👉 Go read the [official Vencord installation guide](https://docs.vencord.dev/installing/)
 > Seriously — **read it fully**. Things will break if you skip it.
-
+> Don't forget to Delete anything unrelated to the plugin this Readme.md or any other file  other than BetterStats.tsx & index.ts 
+? Need help ? Contact me on Discord : shxdes0
 ---
 
 ### 📁 Plugin Setup
